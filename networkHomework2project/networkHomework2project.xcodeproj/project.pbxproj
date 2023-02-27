@@ -56,12 +56,28 @@
 			children = (
 				FD5D3CD529ACB41B0064F71B /* AppDelegate.swift */,
 				FD5D3CD729ACB41B0064F71B /* SceneDelegate.swift */,
-				FD5D3CD929ACB41B0064F71B /* ViewController.swift */,
+				FD5D3CEA29ACB4F70064F71B /* Network */,
+				FD5D3CE929ACB4D80064F71B /* Controllers */,
 				FD5D3CDE29ACB41B0064F71B /* Assets.xcassets */,
 				FD5D3CE029ACB41B0064F71B /* LaunchScreen.storyboard */,
 				FD5D3CE329ACB41B0064F71B /* Info.plist */,
 			);
 			path = networkHomework2project;
+			sourceTree = "<group>";
+		};
+		FD5D3CE929ACB4D80064F71B /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FD5D3CD929ACB41B0064F71B /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		FD5D3CEA29ACB4F70064F71B /* Network */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Network;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
