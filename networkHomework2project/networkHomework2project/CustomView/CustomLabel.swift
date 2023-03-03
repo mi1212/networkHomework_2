@@ -15,7 +15,6 @@ final class CustomLabel: UILabel {
         self.textColor = color
         self.textAlignment = textAlignment
         self.text = text
-//        self.backgroundColor = .blue
         self.adjustsFontSizeToFitWidth = true
         self.translatesAutoresizingMaskIntoConstraints = false
     }

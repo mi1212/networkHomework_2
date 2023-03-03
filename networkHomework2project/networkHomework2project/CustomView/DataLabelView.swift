@@ -19,9 +19,9 @@ final class DataLabelView: UIView {
         return stack
     }()
     
-    let descriptionLabel = CustomLabel(text: "", textAlignment: .left, size: 18, color: .systemGray6, weight: .thin)
+    let descriptionLabel = CustomLabel(text: "descriptionLabel", textAlignment: .left, size: 18, color: .systemGray6, weight: .thin)
     
-    let valueLabel = CustomLabel(text: "", textAlignment: .left, size: 18, color: .systemGray6, weight: .thin)
+    let valueLabel = CustomLabel(text: "valueLabel", textAlignment: .left, size: 18, color: .systemGray6, weight: .thin)
     
     override init(frame: CGRect) {
         super.init(frame: frame)

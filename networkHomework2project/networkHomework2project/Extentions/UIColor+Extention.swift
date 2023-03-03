@@ -9,6 +9,6 @@ import UIKit
 
 extension UIColor {
         
-    static var background: UIColor {#colorLiteral(red: 0.06274509804, green: 0.05490196078, blue: 0.06666666667, alpha: 1)}
+    static var background: UIColor {#colorLiteral(red: 0.09019607843, green: 0.08235294118, blue: 0.05882352941, alpha: 1)}
     
 }
